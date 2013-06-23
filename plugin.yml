@@ -1,0 +1,11 @@
+name: AmbientSpout
+main: me.dretax.ambientspout.AmbientSpout
+version: 1.0.2
+author: DreTaX
+depend: [Spout]
+##commands:
+##   skinselector:
+##      description: SkinSelector admin.
+##      permission: skinselector.reload
+##      usage: /<command> [reload / reset]
+
